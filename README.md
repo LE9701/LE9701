@@ -1,4 +1,4 @@
-CS student @ UOW Australia | Previously studied in Hong Kong
+CS student @ UOW Australia
 
 Interested in Graph Theory and Machine Learning
 
